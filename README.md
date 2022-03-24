@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-Данный репозиторий создан исключительно для деплоя на GitHub Pages. Из-за специфика роута. 
+Данный репозиторий создан исключительно для деплоя на GitHub Pages. Из-за специфики роута. 
 Репозиторий разработки находится по адресу https://github.com/AKadochnikov/alfa.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
