@@ -1,12 +1,15 @@
 {
   "files": {
-    "main.js": "/alfa-deploy/static/js/main.1e30fe7a.js",
+    "main.css": "/alfa-deploy/static/css/main.9e06cd67.css",
+    "main.js": "/alfa-deploy/static/js/main.9558b1f3.js",
     "static/js/787.8f7176a5.chunk.js": "/alfa-deploy/static/js/787.8f7176a5.chunk.js",
     "index.html": "/alfa-deploy/index.html",
-    "main.1e30fe7a.js.map": "/alfa-deploy/static/js/main.1e30fe7a.js.map",
+    "main.9e06cd67.css.map": "/alfa-deploy/static/css/main.9e06cd67.css.map",
+    "main.9558b1f3.js.map": "/alfa-deploy/static/js/main.9558b1f3.js.map",
     "787.8f7176a5.chunk.js.map": "/alfa-deploy/static/js/787.8f7176a5.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.1e30fe7a.js"
+    "static/css/main.9e06cd67.css",
+    "static/js/main.9558b1f3.js"
   ]
 }
